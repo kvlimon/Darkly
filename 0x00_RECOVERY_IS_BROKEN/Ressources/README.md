@@ -17,5 +17,6 @@ By changing the recipient's address followed by a submit action we obtain the fl
 - `<input type="hidden" name="mail" value="my@gmail.com" maxlength="15">`
 
 ## Remediation
+Well designed authentication system.
 
 > Flag : `1d4855f7337c0c14b6f44946872c4eb33853f40b2d54393fbe94f49f1e19bbb0`

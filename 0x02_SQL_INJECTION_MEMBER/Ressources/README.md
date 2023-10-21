@@ -24,7 +24,7 @@ If in this case you replace **123** input with a `'`, it will give you a syntax 
 Meaning that the query become something like that :
 
 ```sql
-SELECT something, random FROM users WHERE id = '\''
+SELECT something, random FROM users WHERE id = '
 ```
 
 ###  SQL Injection Based on 1=1 is Always True
